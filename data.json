@@ -60,11 +60,17 @@
             "url": "http://www.tecrestaurant.com/",
             "location": [41.896032, -87.672597]
         },
-        {   
+        {
             "name": "Native Foods",
             "neighborhood": "Loop",
             "url": "http://www.nativefoods.com/",
             "location": [41.879217, -87.630852]
          }
+         {
+             "name": "Taco Joint",
+             "neighborhood": "RIVER NORTH",
+             "url": "http://www.tacojoint.com/",
+             "location": [41.893394, -87.633346]
+          }
     ]
 }
